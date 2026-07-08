@@ -61,4 +61,5 @@ This repository was created from the
 template by [lexler](https://github.com/lexler). Thank you for making it
 available. The original does not include a license.
 
-Copyright (c) 2026 Iván Fernández
+This copy is released under the [MIT License](LICENSE),
+Copyright (c) 2026 Iván Fernández.
