@@ -1,0 +1,41 @@
+NOTICE
+======
+
+This repository contains code and documentation from multiple sources, each under the MIT License or Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License. Please see below for attribution and licensing details.
+
+1. Introduction to Nullables (original template)
+------------------------------------------------
+- Copyright (c) 2026 lexler
+- Source: https://github.com/lexler/introduction-to-nullables
+- License: The original repository is published without a license.
+- Location: The Java kata in the java/ directory is derived from this template.
+
+2. Just the Docs (Theme)
+------------------------
+- Copyright (c) 2022 just-the-docs
+- License: MIT
+- Location: docs/ directory source files
+- License file: docs/LICENSE
+
+3. Site Documentation
+---------------------
+- Copyright (c) 2026 Iván Fernández
+- License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+- Location: docs/ directory and any site documentation files
+- License file: LICENSE-CC-BY-SA-4.0
+
+4. Modifications
+----------------
+- Modifications and additions to the original codebase are copyright (c) 2026 Iván Fernández, and are licensed under the MIT License.
+
+5. License Texts
+----------------
+- The full text of the MIT License is provided in LICENSE (for the source code modifications and additions) and docs/LICENSE (for just-the-docs).
+- The full text of the Creative Commons Attribution-ShareAlike 4.0 International License is provided in LICENSE-CC-BY-SA-4.0.
+
+6. Additional Notes
+-------------------
+- All original copyright and license notices have been preserved.
+- If you use or redistribute this repository, please retain this NOTICE file and the original license files.
+
+For more information, see the README.md and the respective license files.
