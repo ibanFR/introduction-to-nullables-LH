@@ -164,7 +164,7 @@ Attribution-ShareAlike license.
 
 [Learning Hour]: https://sammancoaching.org/reference/learning_hour_definition.html
 [Nullables]: https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks
-[Miro board]: https://miro.com/app/board/uXjVH9CcfFM=/
+[Miro board]: {{ site.repository }}/blob/main/board/Introduction-to-Nullables-Miro-board.rtb
 [kata template]: https://github.com/lexler/introduction-to-nullables
 [Lada Kesseler]: https://github.com/lexler
 [Connect Activities]: https://sammancoaching.org/activities/connect.html

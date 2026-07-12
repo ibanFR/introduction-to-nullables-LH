@@ -1,12 +1,11 @@
 # Miro board — raw content extract
 
-Source: [Introduction to Nullables board](https://miro.com/app/board/uXjVH9-3QtM=/)
-by Lada Kesseler ([@lexler](https://github.com/lexler)).
+Source: the *Introduction to Nullables* Miro board by Lada Kesseler
+([@lexler](https://github.com/lexler)), backed up locally as
+[`Introduction-to-Nullables-Miro-board.rtb`](./Introduction-to-Nullables-Miro-board.rtb).
 
 This is a faithful, unrestructured dump of the board's frames, in board order.
-For the facilitator-ready version see [`docs/index.md`](../docs/index.md). A
-visual backup of the board is in
-[`Introduction-to-Nullables-Miro-board.rtb`](./Introduction-to-Nullables-Miro-board.rtb).
+For the facilitator-ready version see [`docs/index.md`](../docs/index.md).
 
 ---
 
