@@ -1,6 +1,5 @@
 ---
 title: Facilitator Guide
-layout: home
 nav_order: 3
 ---
 
@@ -31,7 +30,7 @@ timings are the Samman four-phase rhythm (Connect → Concept → Concrete Pract
 1. Understand what a **Nullable** is and how it differs from a **mock**.
 2. Use a ready-made Nullable to write a unit test.
 3. Give a class its own `createNull()` factory and use it to control and observe
-  its behaviour.
+   its behaviour.
 
 Along the way, participants should *feel the friction* of testing legacy code
 with mocks before they see the alternative.
