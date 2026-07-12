@@ -181,8 +181,8 @@ instead of Mockito to pass:
 
 - `_2_1_NullLoanTest` — start with the simplest scenario: an empty library sends
   no reminders (nobody borrowed a book, so nobody gets reminded).
-- `_2_2_NullLoanTest`
-- `_2_3_NullLoanTest`
+- `_2_2_NullLoanTest` — a book borrowed but not yet due isn't overdue.
+- `_2_3_NullLoanTest` — from a mix of loans, only the past-due books come back.
 
 Debrief with the **same** question — how much of the 5 minutes went into the test
 case itself? This time expect "it was easy", "nice to read", "easy to concentrate
