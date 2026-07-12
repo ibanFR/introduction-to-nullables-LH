@@ -26,7 +26,7 @@ to the outside world.
 1. Understand what a **Nullable** is and how it differs from a **mock**.
 2. Use ready-made Nullables to control and observe behaviour in unit tests.
 3. Give a class its own `createNull()` factory and use it to control and observe
-  its behaviour.
+   its behaviour.
 
 ## Connect (⏱️ 5 min)
 
@@ -96,12 +96,6 @@ Work in pairs or ensemble on the [`java/`]({{ site.repository }}/tree/main/java)
 implementation of the Library kata. Setup instructions are in
 [`java/README.md`]({{ site.repository }}/blob/main/java/README.md).
 
-### Demo — creating a simple Nullable (optional)
-
-If the group is new to the pattern, live-code a minimal `createNull()` on a
-small class before the exercises. See [What are Nullables?]({% link _explanation/explanation-home.md %})
-for the explanation to draw from.
-
 ### Exercise 1 — Test with a mock (⏱️ 5 min timebox)
 
 1. Run the tests — one should be failing.
@@ -132,6 +126,11 @@ instead of Mockito to pass:
 Debrief with the **same** question — how much of the 5 minutes went into the test
 case itself? This time expect "it was easy", "nice to read", "easy to concentrate
 on the business logic".
+
+### Demo — creating a simple Nullable (⏱️ ~5 min)
+
+Show how a `createNull()` factory is built — swap the real infrastructure for an embedded, in-memory stand-in while
+keeping the real logic. This sets up participants to write their own.
 
 ### Exercises 3 & 4 — Create a simple Nullable (⏱️ ~15 min)
 
