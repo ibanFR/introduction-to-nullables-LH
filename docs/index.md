@@ -24,7 +24,7 @@ to the outside world.
 ## Learning Goals 🎯
 
 1. Understand what a **Nullable** is and how it differs from a **mock**.
-2. Use ready-made Nullables to control and observe behaviour in unit tests.
+2. Use a ready-made Nullable to write a unit test.
 3. Give a class its own `createNull()` factory and use it to control and observe
    its behaviour.
 
@@ -166,8 +166,3 @@ Attribution-ShareAlike license.
 [Miro board]: {{ site.repository }}/blob/main/board/Introduction-to-Nullables-Miro-board.rtb
 [kata template]: https://github.com/lexler/introduction-to-nullables
 [Lada Kesseler]: https://github.com/lexler
-[Connect Activities]: https://sammancoaching.org/activities/connect.html
-[Concept Activities]: https://sammancoaching.org/activities/concept.html
-[Concrete Practice Activities]: https://sammancoaching.org/activities/concrete.html
-[Conclusions Activities]: https://sammancoaching.org/activities/conclusions.html
-[Samman Coaching]: https://sammancoaching.org/

@@ -4,11 +4,11 @@
 # Preview at http://localhost:4000
 #
 # Requires Ruby and Bundler. From the repository root or anywhere, run:
-#   ./site/start_local_server.sh
+#   ./docs/start_local_server.sh
 
 set -euo pipefail
 
-# Run from the directory containing this script (the site root).
+# Run from the directory containing this script (the docs site root).
 cd "$(dirname "$0")"
 
 if ! command -v bundle >/dev/null 2>&1; then

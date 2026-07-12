@@ -1,9 +1,10 @@
 ---
 title: Facilitator Guide
 layout: home
+nav_order: 3
 ---
 
-# {{ site.title }}
+# {{ page.title }}: {{site.title}}
 {: .no_toc }
 
 {{ site.description }}.
@@ -237,11 +238,8 @@ See [Conclusions Activities] for more ways to facilitate the reflection.
 
 [Learning Hour]: https://sammancoaching.org/reference/learning_hour_definition.html
 [Nullables]: https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks
-[Connect Activities]: https://sammancoaching.org/activities/connect.html
-[Concept Activities]: https://sammancoaching.org/activities/concept.html
 [Concrete Practice Activities]: https://sammancoaching.org/activities/concrete.html
 [Conclusions Activities]: https://sammancoaching.org/activities/conclusions.html
-[Samman Coaching]: https://sammancoaching.org/
 [introduction-to-nullables]: https://github.com/lexler/introduction-to-nullables
 [@lexler]: https://github.com/lexler
 [mise]: https://mise.jdx.dev
